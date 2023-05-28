@@ -1,0 +1,15 @@
+C:\Study\C#\fifth_practice\35ex\bin\Debug\net7.0\35ex.exe
+C:\Study\C#\fifth_practice\35ex\bin\Debug\net7.0\35ex.deps.json
+C:\Study\C#\fifth_practice\35ex\bin\Debug\net7.0\35ex.runtimeconfig.json
+C:\Study\C#\fifth_practice\35ex\bin\Debug\net7.0\35ex.dll
+C:\Study\C#\fifth_practice\35ex\bin\Debug\net7.0\35ex.pdb
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.csproj.AssemblyReference.cache
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.AssemblyInfoInputs.cache
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.AssemblyInfo.cs
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.csproj.CoreCompileInputs.cache
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.dll
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\refint\35ex.dll
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.pdb
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\35ex.genruntimeconfig.cache
+C:\Study\C#\fifth_practice\35ex\obj\Debug\net7.0\ref\35ex.dll

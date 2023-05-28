@@ -1,0 +1,15 @@
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.csproj.AssemblyReference.cache
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.AssemblyInfoInputs.cache
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.AssemblyInfo.cs
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.csproj.CoreCompileInputs.cache
+C:\Study\C#\fifth_practice\32ex\bin\Debug\net7.0\32ex.exe
+C:\Study\C#\fifth_practice\32ex\bin\Debug\net7.0\32ex.deps.json
+C:\Study\C#\fifth_practice\32ex\bin\Debug\net7.0\32ex.runtimeconfig.json
+C:\Study\C#\fifth_practice\32ex\bin\Debug\net7.0\32ex.dll
+C:\Study\C#\fifth_practice\32ex\bin\Debug\net7.0\32ex.pdb
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.dll
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\refint\32ex.dll
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.pdb
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\32ex.genruntimeconfig.cache
+C:\Study\C#\fifth_practice\32ex\obj\Debug\net7.0\ref\32ex.dll
